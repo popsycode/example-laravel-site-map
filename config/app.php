@@ -186,6 +186,7 @@ return [
          * Package Service Providers...
          */
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+        Popsy\LaravelSiteMap\SitemapServiceProvider::class,
 
         /*
          * Application Service Providers...
